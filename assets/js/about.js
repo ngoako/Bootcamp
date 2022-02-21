@@ -1,0 +1,11 @@
+document.getElementById("about-heading").innerHTML = "About Me";
+document.getElementById("body-text").innerHTML ="My name is Ngoako Masekela and I am a Junior Web Developer for Codetribe. I am an upcoming Web developer, and I enjoy using my skills to contribute to the exciting technological advances that happen every day at Codetribe.I graduated from the Tshwane University of Technology in 2021 with a Diploma in Information Technology and i specialized in Software Development. <br><br> post my school learning, I have completed Microsoft Azure administrator internship with Microsoft South Africa and i was certified as a Microsoft Azure Administrator professional. And i am now a junior Web developer at Codetribe.";
+document.getElementById("dev-description").innerHTML="DEVELOPMENT";
+document.getElementById("body-texts").innerHTML = " I use HTML & CSS every day, and I try to keep up with the latest features while maintaining graceful degradation. I use JavaScript fairly often, usually with jQuery. I also run Node.js-based workflow automation via GitHUb for web projects, and I have developed a number of website and web application.";
+document.getElementById("des-description").innerHTML ="DESIGN";
+document.getElementById("body-text-two").innerHTML = "I have experience with different databases such as MySql, MongoDB and also the use of Sql. My web design process usually involves wireframing, a few rough sketches, and then a prototype that over several iterations, it therefore becomes the final design.";
+document.getElementById("education-button").innerHTML = "Click to view my Educational Background";
+document.getElementById("primary-info").innerHTML = "Institution: Maboi Primary School <br>Year: 2001 - 2005";
+document.getElementById("secondary-info").innerHTML ="Institution: St Brendans Catholic Secondary School <br>Year: 2006 - 2010";
+document.getElementById("tertiary-info").innerHTML ="Institution: Tshwane University of Technology <br>Year: 20014 - 2018";
+document.getElementById("other-info").innerHTML ="Institution: Bytes People Solutions <br>Year: 2019 - 2021";

@@ -1,0 +1,4 @@
+document.getElementById("bio-title").innerHTML = "Ngoako Masekela";
+document.getElementById("biography").innerHTML = " My name is Ngoako Masekela and I am a Junior Web Developer for Codetribe. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances that happen every day at Codetribe.<br><br> I graduated from the Tshwane University of Technology in 2021 with a Diploma in Information Technology and i specialized in Software Development. post my school learning,I have completed Microsoft Azure administrator internship with Microsoft South Africa and i was certified as a Microsoft Azure Administrator professional. ";
+document.getElementById("bio-button").innerHTML = "Read More..";
+document.getElementById("connectWith").innerHTML = "Connect with Me";
